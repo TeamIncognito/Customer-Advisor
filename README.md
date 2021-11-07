@@ -1,4 +1,4 @@
-# Customer-Advisor
+# Customer-Advisor.
 
 ➊ This project is an attempt to suggest users which influencers use a particular brand based on the brand choosen by the user.
 There are several brands like Addidas, Puma, American Tourister etc. 
