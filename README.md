@@ -15,14 +15,20 @@ To run the streamlit application  run the following
   • streamlit run app.py
 ```
 ## Libraries Used
-![Library Used](https://user-images.githubusercontent.com/93784760/140648414-016097fc-e829-4db8-963a-6db7dbaa7e9b.jpeg)
+`Numpy`
+`Tesnsor Flow`
+`Pillow`
+`Pickle`
+`Scikit-Learn`
+`Streamlit`
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![WhatsApp Image 2021-11-07 at 20 59 28](https://user-images.githubusercontent.com/93784760/140651761-293f5afa-9497-489f-97e6-05ffd06ee322.jpeg)
+![WhatsApp Image 2021-11-07 at 20 59 29 (1)](https://user-images.githubusercontent.com/93784760/140651771-71398236-2802-406e-8351-14c5950cb43b.jpeg)
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+# `Website Link:`[link](https://share.streamlit.io/amaanalikhan3000/bookish-doodle/main/app.py)
 
 
 ## REFERENCES
@@ -44,7 +50,5 @@ To run the streamlit application  run the following
 - https://www.youtube.com/watch?v=8qDXcD1-Z-o
 
 - https://nycdatascience.com/blog/student-works/capstone/fashion-rec/
-## Brands
-![Brands](https://user-images.githubusercontent.com/93784760/140648338-d45adda2-d2ce-4b77-a64d-8ca4a02bf15d.jpeg)
 
-# `Website Link:`[link](https://share.streamlit.io/amaanalikhan3000/bookish-doodle/main/app.py)
+
