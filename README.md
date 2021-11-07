@@ -1,7 +1,5 @@
 # Customer-Advisor
 
-# Customer Adviser
-
 ➊ This project is an attempt to suggest users which influencers use a particular brand based on the brand choosen by the user.
 There are several brands like Addidas, Puma, American Tourister etc. 
 
@@ -10,9 +8,6 @@ There are several brands like Addidas, Puma, American Tourister etc.
 ➌ Using 𝐍𝐄𝐀𝐑𝐄𝐒𝐓 𝐍𝐄𝐈𝐆𝐇𝐁𝐎𝐑𝐒 algorithm of scikit learn    influencers were extracted based on brand logos images.
 
 ## Installation
-
-
-
 ```bash
 To install the requirements(libraries) run the following
   • pip install -r requirements.txt
@@ -51,24 +46,5 @@ To run the streamlit application  run the following
 - https://nycdatascience.com/blog/student-works/capstone/fashion-rec/
 ## Brands
 ![Brands](https://user-images.githubusercontent.com/93784760/140648338-d45adda2-d2ce-4b77-a64d-8ca4a02bf15d.jpeg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # `Website Link:`[link](https://share.streamlit.io/amaanalikhan3000/bookish-doodle/main/app.py)
